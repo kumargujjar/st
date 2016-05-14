@@ -1,0 +1,9 @@
+git config --global user.name "datta"
+git config --global user.email "dgujjar3@gmail.com"
+cd file...
+git init  
+git commit  -m  "well come gethub"
+git add .
+
+ https://github.com/kumargujjar/st/raw/master/tp.c
+
